@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/docs/blog</id>
-    <title>My Site Blog</title>
+    <title>GLiCID - High Performance Computing Blog</title>
     <updated>2023-09-18T22:39:22.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/docs/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>GLiCID - High Performance Computing Blog</subtitle>
     <icon>https://github.com/docs/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Harnessing the Power of Clusters]]></title>
