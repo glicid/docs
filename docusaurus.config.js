@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'GLiCID - High Performance Computing',
+  tagline: 'Ecole Centrale Nantes and Nantes University',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
